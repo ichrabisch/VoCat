@@ -2,5 +2,5 @@
 Introducing a Fresh Way to Master Your Vocabulary!
 
 Say goodbye to boring lists—our app transforms your learning experience into a personalized journey! Learn new words easily, effectively, and in a fun, engaging way. Whether you're just starting out or looking to expand your language skills, our app makes it simple and enjoyable. Start building your vocabulary today, and watch it grow like never before!
-~
+#~
 The new breath to learn your own vocab lists! Not just a list but like a personal story! An application with provides you to learn new vocabularies in a basic way! Our new product has such a great way to learn easily, basicly, effectively an funny :) 
