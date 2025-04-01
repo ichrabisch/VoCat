@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.Core" Version="3.7.400.68" />
+    <PackageReference Include="AWSSDK.S3" Version="3.7.410.10" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VoCat.SharedKernel\VoCat.SharedKernel.csproj" />
+    <ProjectReference Include="..\VoCat.Types\VoCat.Types.csproj" />
+  </ItemGroup>
+
+</Project>
