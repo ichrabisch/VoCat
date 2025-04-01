@@ -1,0 +1,8 @@
+CREATE TABLE "Tag" (
+    tag_id UUID PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    user_id UUID NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    CONSTRAINT fk_user FOREIGN KEY (user_id) REFERENCES "User"(user_id) ON DELETE CASCADE
+
+);
